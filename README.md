@@ -1,7 +1,7 @@
 # Data Analysis with R
 ## 데이터 다루기
 - [R 문법에 대한 이해](https://github.com/soondong2/Data_Analysis_with_R/blob/main/3%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/R%20%EB%AC%B8%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)
-- 데이터 프레임 다루기
+- [데이터 프레임 다루기](https://github.com/soondong2/Data_Analysis_with_R/blob/main/3%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - 데이터 정제
 ## 통계분석과 기본 그래프
 - 기초 통계량
