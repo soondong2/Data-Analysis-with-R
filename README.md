@@ -1,4 +1,20 @@
 # Data Analysis with R
+![image](https://user-images.githubusercontent.com/100760303/210537055-af103a7f-e9d4-4083-b223-a16be037d112.png)
+
+<br>
+
+## 책 소개
+- 현장에서 R을 다룰 때 필요한 이론과 활용법 수록
+- 가상의 1인 기업의 데이터 분석 스토리로, 프로젝트 전 과정을 배움
+
+<br>
+
+데이터 분석 현장 전문가가 데이터 분석 이론과 현장에서 필요한 실무 활용법과 노하우를 설명한다.<br>
+데이터 분석에 대해 자세히 이해할 수 있도록 데이터 분석의 개념, 발달 과정, 분석 과정을 알아보고 R 문법을 배운다.<br>
+통계 분석과 기본 그래프, 상관 분석과 회귀 분석, 분류 및 군집 분석 등의 이론과 실제를 학습할 수 있다. 인공 신경망과 딥러닝, 텍스트 마이닝까지 다룬다.
+
+<br>
+
 ## 데이터 다루기
 - [R 문법에 대한 이해](https://github.com/soondong2/Data_Analysis_with_R/blob/main/3%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/R%20%EB%AC%B8%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)
 - [데이터 프레임 다루기](https://github.com/soondong2/Data_Analysis_with_R/blob/main/3%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
