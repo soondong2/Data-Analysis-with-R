@@ -23,7 +23,7 @@
 - [기초 통계량](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B8%B0%EC%B4%88%20%ED%86%B5%EA%B3%84%EB%9F%89.md)
 - [기본 그래프](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84.md)
 - [정규분포와 중심극한정리](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC%EC%99%80%20%EC%A4%91%EC%8B%AC%EA%B7%B9%ED%95%9C%EC%A0%95%EB%A6%AC.md)
-- 가설검정
+- [가설검정](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95.md)
 ## 상관분석과 회귀분석
 - 상관분석
 - 회귀분석
