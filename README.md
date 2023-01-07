@@ -26,7 +26,7 @@
 - [가설검정](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95.md)
 - [연습문제](https://github.com/soondong2/Data-Analysis-with-R/blob/main/4%EC%9E%A5%20%ED%86%B5%EA%B3%84%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EA%B7%B8%EB%9E%98%ED%94%84/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.md)
 ## 상관분석과 회귀분석
-- 상관분석
+- [상관분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.md)
 - 회귀분석
 ## 분류 및 군집분석
 - 로지스틱 회귀
