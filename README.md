@@ -29,6 +29,8 @@
 - [상관분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D.md)
 - 회귀분석
   - [단순 회귀분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EB%8B%A8%EC%88%9C%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
+  - [다중 회귀분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EB%8B%A4%EC%A4%91%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
+  - [비선형 회귀분석]()
 ## 분류 및 군집분석
 - 로지스틱 회귀
 - 분류 알고리즘
