@@ -32,7 +32,8 @@
   - [다중 회귀분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EB%8B%A4%EC%A4%91%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
   - [비선형 회귀분석](https://github.com/soondong2/Data-Analysis-with-R/blob/main/5%EC%9E%A5%20%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D/%EB%B9%84%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
 ## 분류 및 군집분석
-- 로지스틱 회귀
+- [로지스틱 회귀](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80.md)
+- [분류 알고리즘 성능 평가]()
 - 분류 알고리즘
   - 나이브 베이즈
   - k-최근접 이웃
