@@ -35,7 +35,7 @@
 - [로지스틱 회귀](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80.md)
 - [분류 알고리즘 성능 평가](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%B1%EB%8A%A5%20%ED%8F%89%EA%B0%80.md)
 - 분류 알고리즘
-  - 나이브 베이즈
+  - [나이브 베이즈](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88.md)
   - k-최근접 이웃
   - 의사결정나무
   - 배깅
