@@ -37,7 +37,7 @@
 - 분류 알고리즘
   - [나이브 베이즈](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88.md)
   - [k-최근접 이웃](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83.md)
-  - 의사결정나무
+  - [의사결정나무](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.md)
   - 배깅
   - 부스팅
   - 랜덤 포레스트
