@@ -39,7 +39,7 @@
   - [k-최근접 이웃(k-Nearest Neighbor)](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83.md)
   - [의사결정나무(Decision Tree)](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.md)
   - [배깅(Bagging)](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%B0%B0%EA%B9%85.md)
-  - 부스팅
+  - [부스팅(Boosting)](https://github.com/soondong2/Data-Analysis-with-R/blob/main/6%EC%9E%A5%20%EB%B6%84%EB%A5%98%20%EB%B0%8F%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D/%EB%B6%80%EC%8A%A4%ED%8C%85.md)
   - 랜덤 포레스트
   - 서포트 벡터 머신
   - XGBoost와 하이퍼파라미터 튜닝
